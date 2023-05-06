@@ -1,7 +1,7 @@
 package project3;
 
 public class RK {
-  
+  int a = 11;
   public int match(String T, String P) {
     /** Your code goes here */
     int lenT = T.length() , lenP = P.length();
